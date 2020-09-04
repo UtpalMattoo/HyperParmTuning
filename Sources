@@ -1,0 +1,10 @@
+"""
+https://medium.com/district-data-labs/parameter-tuning-with-hyperopt-faa86acdfdce
+
+Hyperparameter tuning:
+
+https://github.com/keras-team/keras-tuner
+Hyperparameter tuning with Keras Tuner: https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html
+https://keras-team.github.io/keras-tuner/
+
+"""
