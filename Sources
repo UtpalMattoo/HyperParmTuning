@@ -6,5 +6,5 @@ Hyperparameter tuning:
 https://github.com/keras-team/keras-tuner
 Hyperparameter tuning with Keras Tuner: https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html
 https://keras-team.github.io/keras-tuner/
-
+Paper: http://conference.scipy.org/proceedings/scipy2013/pdfs/bergstra_hyperopt.pdf
 """
