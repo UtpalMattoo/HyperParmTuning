@@ -7,4 +7,7 @@ https://github.com/keras-team/keras-tuner
 Hyperparameter tuning with Keras Tuner: https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html
 https://keras-team.github.io/keras-tuner/
 Paper: http://conference.scipy.org/proceedings/scipy2013/pdfs/bergstra_hyperopt.pdf
+FastML: http://fastml.com/optimizing-hyperparams-with-hyperopt/
+VideoTutorial: https://www.youtube.com/watch?v=Mp1xnPfE4PY
+Making a Science of Model Search: https://arxiv.org/abs/1209.5111
 """
